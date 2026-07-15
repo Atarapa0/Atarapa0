@@ -15,6 +15,13 @@ Building production-ready mobile applications, AI-powered solutions, and scalabl
 I'm a Flutter-focused **Mobile Application Developer** based in Istanbul, Türkiye.
 
 I build production-ready mobile applications with real-time data flows, role-based authorization, scalable architecture, Firebase, and Supabase. I also develop AI-powered applications and local multi-LLM orchestration systems.
+<div align="center">
+  
+<img src="https://img.shields.io/badge/Local_LLMs-111111?style=flat-square" alt="Local LLMs"/>
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-5A45FF?style=flat-square" alt="Multi-Agent Systems"/>
+<img src="https://img.shields.io/badge/AI_Orchestration-6C63FF?style=flat-square" alt="AI Orchestration"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-212121?style=flat-square" alt="Clean Architecture"/>
+</div>
 
 ---
 
@@ -24,13 +31,6 @@ I build production-ready mobile applications with real-time data flows, role-bas
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,swift,firebase,supabase,postgres,js,ts,nextjs,git,github,figma,vscode,androidstudio,postman" alt="Languages and development tools"/>
 
-<br><br>
-
-
-<img src="https://img.shields.io/badge/Local_LLMs-111111?style=flat-square" alt="Local LLMs"/>
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-5A45FF?style=flat-square" alt="Multi-Agent Systems"/>
-<img src="https://img.shields.io/badge/AI_Orchestration-6C63FF?style=flat-square" alt="AI Orchestration"/>
-<img src="https://img.shields.io/badge/Clean_Architecture-212121?style=flat-square" alt="Clean Architecture"/>
 
 <br><br>
 
