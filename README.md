@@ -31,7 +31,7 @@ I build production-ready mobile applications with real-time data flows, role-bas
 <img src="https://img.shields.io/badge/AI_Orchestration-6C63FF?style=flat-square" alt="AI Orchestration"/>
 <img src="https://img.shields.io/badge/Clean_Architecture-212121?style=flat-square" alt="Clean Architecture"/>
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/furkan-erdogan/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
