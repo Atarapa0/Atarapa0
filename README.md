@@ -60,7 +60,6 @@ I build production-ready mobile applications with real-time data flows, role-bas
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 <table>
@@ -70,17 +69,11 @@ I build production-ready mobile applications with real-time data flows, role-bas
 
 ### 🧠 Atlas
 
-Local multi-LLM orchestration platform that coordinates multiple models and produces a consolidated response.
+Local multi-LLM orchestration platform that coordinates multiple AI models into a single intelligent response.
 
-<br>
+**Flutter • Local LLM • Multi-Agent**
 
-**Flutter • Local LLMs • Multi-Agent**
-
-<br>
-
-<a href="https://github.com/Atarapa0/Atlas_mobile_app/tree/main/atlas">📂 Repository</a>
-<br>
-<a href="https://atlas.furkanerdogan.com/">🌐 Website</a>
+📂 <a href="https://github.com/Atarapa0/Atlas_mobile_app/tree/main/atlas">Repository</a> • 🌐 <a href="https://atlas.furkanerdogan.com/">Website</a>
 
 </td>
 
@@ -88,17 +81,11 @@ Local multi-LLM orchestration platform that coordinates multiple models and prod
 
 ### ☕ AÜ Çaycım
 
-Role-based tea ordering and management application actively used by more than 40 university staff members.
-
-<br>
+Role-based tea ordering and management application used by 40+ university staff members.
 
 **Flutter • Firebase • Supabase**
 
-<br>
-
-<a href="https://apps.apple.com/tr/app/a%C3%BC-%C3%A7ayc%C4%B1m/id6757230622?l=tr">🍎 App Store</a>
-<br>
-<a href="https://play.google.com/store/apps/details?id=com.furkanerdogan.aucaycim">▶️ Google Play</a>
+🍎 <a href="https://apps.apple.com/tr/app/a%C3%BC-%C3%A7ayc%C4%B1m/id6757230622?l=tr">App Store</a> • ▶️ <a href="https://play.google.com/store/apps/details?id=com.furkanerdogan.aucaycim">Google Play</a>
 
 </td>
 
@@ -106,19 +93,11 @@ Role-based tea ordering and management application actively used by more than 40
 
 ### 💕 CoupleHub
 
-A relationship companion application designed for couples to share memories and manage activities together.
-
-<br>
+A relationship companion app for couples to share memories and strengthen communication.
 
 **Flutter • Firebase • Supabase**
 
-<br>
-
-<a href="https://github.com/Atarapa0/CoupleHub">📂 Repository</a>
-<br>
-🍎 App Store — Coming Soon
-<br>
-▶️ Google Play — Coming Soon
+📂 <a href="https://github.com/Atarapa0/CoupleHub">Repository</a> • 🍎 Coming Soon • ▶️ Coming Soon
 
 </td>
 
@@ -130,17 +109,11 @@ A relationship companion application designed for couples to share memories and 
 
 ### 📊 Caprsa
 
-AI-powered analytics platform for processing and comparing App Store and Google Play reviews.
-
-<br>
+AI-powered analytics platform for App Store and Google Play reviews.
 
 **Flutter • REST API • AI**
 
-<br>
-
-<a href="https://github.com/Atarapa0/CaprsaApp">📂 Repository</a>
-<br>
-<a href="https://github.com/Atarapa0/caprsa-website">🌐 Website Repository</a>
+📂 <a href="https://github.com/Atarapa0/CaprsaApp">Repository</a> • 🌐 <a href="https://github.com/Atarapa0/caprsa-website">Website Source</a>
 
 </td>
 
@@ -148,17 +121,11 @@ AI-powered analytics platform for processing and comparing App Store and Google 
 
 ### 📁 OrionHub
 
-Real-time collaborative project and task management application with role-based workflows.
-
-<br>
+Real-time collaborative project and task management platform.
 
 **Flutter • Supabase • PostgreSQL**
 
-<br>
-
-<a href="https://github.com/Atarapa0/OrionHub-Smart-Task-and-Project-Management-App">📂 Repository</a>
-<br>
-<a href="https://orionhub.furkanerdogan.com">🌐 Website</a>
+📂 <a href="https://github.com/Atarapa0/OrionHub-Smart-Task-and-Project-Management-App">Repository</a> • 🌐 <a href="https://orionhub.furkanerdogan.com">Website</a>
 
 </td>
 
@@ -166,21 +133,11 @@ Real-time collaborative project and task management application with role-based 
 
 ### 📈 SocialSense
 
-Privacy-focused Instagram analytics application that processes exported JSON data directly on the device.
+Offline Instagram analytics application with on-device data processing.
 
-<br>
+**Flutter • Dart**
 
-**Flutter • Dart • Local Processing**
-
-<br>
-
-<a href="https://github.com/Atarapa0/SocialSense-Insights-for-Insta">📂 Repository</a>
-<br>
-<a href="https://socialsense.furkanerdogan.com/">🌐 Website</a>
-<br>
-<a href="https://apps.apple.com/tr/app/socialsense-insights-for-insta/id6758411767?l=tr">🍎 App Store</a>
-<br>
-<a href="https://play.google.com/store/apps/details?id=com.furkanerdogan.socialsense">▶️ Google Play</a>
+📂 <a href="https://github.com/Atarapa0/SocialSense-Insights-for-Insta">Repository</a> • 🌐 <a href="https://socialsense.furkanerdogan.com/">Website</a> • 🍎 <a href="https://apps.apple.com/tr/app/socialsense-insights-for-insta/id6758411767?l=tr">App Store</a> • ▶️ <a href="https://play.google.com/store/apps/details?id=com.furkanerdogan.socialsense">Google Play</a>
 
 </td>
 
